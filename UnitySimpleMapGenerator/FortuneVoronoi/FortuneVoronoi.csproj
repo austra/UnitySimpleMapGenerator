@@ -12,6 +12,7 @@
     <Description>Fortune's Voronoi algorithm, based on code by BenDi on Code Project:
 http://www.codeproject.com/KB/recipes/fortunevoronoi.aspx
 </Description>
+    <TargetFrameworkVersion>v3.5</TargetFrameworkVersion>
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
     <DebugSymbols>true</DebugSymbols>
